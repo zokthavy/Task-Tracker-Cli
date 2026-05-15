@@ -1,0 +1,30 @@
+{
+  "next_id": 7,
+  "tasks": [
+    {
+      "id": 2,
+      "description": "Coding",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "description": "Buy some water",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "description": "Have a lunch",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "description": "Workout at 15:00",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "description": "Have a Dinner",
+      "status": "pending"
+    }
+  ]
+}
